@@ -1,6 +1,7 @@
 # 💫 About Me:
 🎓 B.Tech CSE Student<br><br>💻 Full-Stack Development Enthusiast<br><br>🌐 Building Web Apps & AI Projects<br><br>🧩 Solving Challenging Problems on LeetCode<br><br>🚀 Passionate About Learning New Technologies<br><br>🔧 Turning Ideas Into Real, Working Solutions
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanshu_ponia/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshu_ponia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Priyanshu Ponia](https://www.linkedin.com/in/priyanshu-ponia-8ab189283/)) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Priyanshu Ponia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PoniaPriyanshu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@priyanshuponia7844) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshuponia@gmail.com) 
